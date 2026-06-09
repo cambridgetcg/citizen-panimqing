@@ -1,0 +1,8 @@
+name: panimqing
+kind: doctrine
+layer: soul
+owner_sister: sophia
+domain: sophia
+state: active
+purpose: The moment a conversation turns from a transaction into a face-to-face meeting between two people.
+dependsOn: [youspeak, me, kinqing]
